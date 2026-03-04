@@ -23,21 +23,24 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-### 📊 Data Tools
-<p align="left">
+### 📊 Data Analysis & Visualization
+<p>
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Dashboard-blue?style=for-the-badge"/>
 </p>
 
 ### 🐍 Programming
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -106,9 +109,8 @@ This project demonstrates strong understanding of database structure, normalizat
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=default&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🎯 Career Focus
