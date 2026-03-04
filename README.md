@@ -25,33 +25,20 @@
 
 ## 🛠️ Technical Skills
 
-### 📊 Microsoft Excel
-- Advanced Formulas & Functions  
-- Pivot Tables & Pivot Charts  
-- Power Query  
-- Dashboard Design  
-- Data Cleaning & Formatting  
+### 📊 Data Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge"/>
+</p>
 
-### 📈 Power BI
-- Data Modeling  
-- DAX (Measures & Calculations)  
-- Interactive Dashboards  
-- KPI Indicators  
-- Slicers & Drill-through Reports  
-
-### 🗄 SQL (MySQL)
-- Joins (Inner, Left, Right)  
-- Subqueries  
-- Aggregations & Group By  
-- Data Filtering & Extraction  
-- Relational Database Design  
-
-### 🐍 Python
-- Pandas  
-- NumPy  
-- Matplotlib  
-- File Handling  
-- Data Processing & Basic EDA  
+### 🐍 Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
 ---
 
