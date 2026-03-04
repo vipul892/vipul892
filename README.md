@@ -106,13 +106,6 @@ This project demonstrates strong understanding of database structure, normalizat
 
 ---
 
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=default&cache_seconds=1800" />
-</p>
----
-
 ## 🎯 Career Focus
 
 To grow as a Data Analyst by building impactful dashboards, writing efficient SQL queries, and solving real-world business problems using Excel, Power BI, MySQL, and Python.
@@ -122,7 +115,8 @@ To grow as a Data Analyst by building impactful dashboards, writing efficient SQ
 ## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/vipul892  
-- 💼 LinkedIn: (Add your LinkedIn link)  
+- 💼 LinkedIn: <img width="1355" height="653" alt="image" src="[https://github.com/user-attachments/assets/155c1a45-cde5-45ff-b363-0feb581a3fca](https://www.linkedin.com/in/vipul-alsundkar-6891593a0/)" />
+ 
 - 📧 Email: (Add your email)  
 
 ---
