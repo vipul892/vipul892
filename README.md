@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Alsundkar</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist | Power BI Developer</h3>
+<h3 align="center">Data Analyst | Excel • SQL • Power BI • Python</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipul892&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="vipul892" />
@@ -9,60 +9,105 @@
 
 ## 🚀 About Me
 
-- 📊 Passionate about Data Analysis & Business Intelligence  
-- 📈 Skilled in creating interactive dashboards & reports  
-- 🐍 Learning Data Science & Machine Learning  
-- 🗄 Strong foundation in SQL & Data Modeling  
-- 🎯 Goal: To become a Data Analyst / Data Scientist  
+📊 I am a Data Analyst skilled in transforming raw data into meaningful insights and interactive dashboards.
+
+💼 With strong expertise in Excel, SQL, Power BI, and Python, I specialize in:
+
+- Data Cleaning & Transformation  
+- Dashboard Development  
+- Business Intelligence Reporting  
+- KPI & Performance Analysis  
+- Structured Data Modeling  
+
+🎯 My goal is to help businesses make data-driven decisions using clear and actionable insights.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-Dashboard-blue?style=for-the-badge"/>
-</p>
+### 📊 Microsoft Excel
+- Advanced Formulas & Functions  
+- Pivot Tables & Pivot Charts  
+- Power Query  
+- Dashboard Design  
+- Data Cleaning & Formatting  
 
-### 🐍 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
-</p>
+### 📈 Power BI
+- Data Modeling  
+- DAX (Measures & Calculations)  
+- Interactive Dashboards  
+- KPI Indicators  
+- Slicers & Drill-through Reports  
 
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge"/>
-</p>
+### 🗄 SQL (MySQL)
+- Joins (Inner, Left, Right)  
+- Subqueries  
+- Aggregations & Group By  
+- Data Filtering & Extraction  
+- Relational Database Design  
+
+### 🐍 Python
+- Pandas  
+- NumPy  
+- Matplotlib  
+- File Handling  
+- Data Processing & Basic EDA  
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 EV Fleet Performance Dashboard (Power BI)
-- Fleet Cost Breakdown
-- Battery Health Analysis
-- Maintenance & Insurance Insights
-- Regional Performance Comparison
-
-### 🗳 Indian Lok Sabha Election 2024 – Excel Dashboard
-- Party-wise Seat Distribution
-- Vote Share Analysis
-- State-wise Performance
-- EVM vs Postal Vote Comparison
-
-### 📈 Sales Data Analysis Dashboard
-- Year-over-Year Growth
-- KPI Indicators
-- Profit & Revenue Analysis
+### 📊 EV Fleet Performance Dashboard – Power BI
+- Fleet Cost & Maintenance Analysis  
+- Battery Health Monitoring  
+- Regional Performance Insights  
+- Interactive KPI Tracking  
 
 ---
 
-## 📈 GitHub Stats
+### 🗳 Indian Lok Sabha Election 2024 – Excel Dashboard
+- Party-wise Seat Distribution  
+- Vote Share Analysis  
+- State-wise Performance  
+- EVM vs Postal Vote Comparison  
+- Interactive Filtering using Slicers  
+
+---
+
+### 🚕 MySql_Project_Indian-Uber-Management-System
+
+📌 **Tools Used:** MySQL  
+
+A complete relational database project designed to simulate an Indian Uber ride management system.
+
+#### 🔹 Key Features:
+- Customer Management Table  
+- Driver Information Table  
+- Booking & Trip Details  
+- Payment Records  
+- Ride Status Tracking  
+- Table Relationships using Primary & Foreign Keys  
+
+#### 🔹 SQL Concepts Applied:
+- Complex Joins  
+- Aggregation Queries  
+- Subqueries  
+- Data Filtering  
+- Database Schema Design  
+
+This project demonstrates strong understanding of database structure, normalization, and real-world SQL querying.
+
+---
+
+### 📈 Sales Data Analysis Dashboard – Power BI
+- Year-over-Year Growth Analysis  
+- Profit & Revenue Insights  
+- Regional Sales Trends  
+- Business KPI Indicators  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=default" height="160"/>
@@ -74,38 +119,23 @@
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact" height="150"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Career Focus
 
-- Advanced DAX Optimization  
-- Python for Data Science  
-- Exploratory Data Analysis (EDA)  
-- Machine Learning Fundamentals  
-
----
-
-## 🎯 Career Objective
-
-To build impactful, data-driven solutions that help organizations make strategic and informed decisions through analytics and visualization.
+To grow as a Data Analyst by building impactful dashboards, writing efficient SQL queries, and solving real-world business problems using Excel, Power BI, MySQL, and Python.
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/vipul892">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <!-- Add your LinkedIn link below -->
-  <!-- <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a> -->
-</p>
+- 🐙 GitHub: https://github.com/vipul892  
+- 💼 LinkedIn: (Add your LinkedIn link)  
+- 📧 Email: (Add your email)  
 
 ---
 
-⭐ Focused on Clean Dashboards | Structured Analysis | Real Business Insights
+⭐ Passionate about Data | SQL Projects | Dashboard Design | Business Insights
