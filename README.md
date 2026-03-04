@@ -115,7 +115,7 @@ To grow as a Data Analyst by building impactful dashboards, writing efficient SQ
 ## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/vipul892  
-- 💼 LinkedIn: <img width="1355" height="653" alt="image" src="[https://github.com/user-attachments/assets/155c1a45-cde5-45ff-b363-0feb581a3fca](https://www.linkedin.com/in/vipul-alsundkar-6891593a0/)" />
+- 💼 LinkedIn: https://www.linkedin.com/in/vipul-alsundkar-6891593a0/
  
 - 📧 Email: (Add your email)  
 
