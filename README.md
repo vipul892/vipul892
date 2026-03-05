@@ -56,11 +56,28 @@
 ---
 
 ### 🗳 Indian Lok Sabha Election 2024 – Excel Dashboard
-- Party-wise Seat Distribution  
-- Vote Share Analysis  
-- State-wise Performance  
-- EVM vs Postal Vote Comparison  
-- Interactive Filtering using Slicers  
+
+Developed an interactive Excel dashboard to analyze the results of the 2024 Indian Lok Sabha Elections using data visualization and dynamic filtering techniques.
+
+### 🔹 Key Features
+
+- Party-wise Seat Distribution – Visual breakdown of seats won by each political party.
+- Vote Share Analysis – Comparison of vote percentage across major parties.
+- State-wise Performance – Analysis of election results across different states.
+- EVM vs Postal Vote Comparison – Insight into voting patterns by vote type.
+- Interactive Slicers – Enabled dynamic filtering for quick and flexible analysis.
+
+### 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+### 📊 Outcome
+
+The dashboard provides a clear and interactive view of election trends, party performance, and voting patterns, helping users quickly explore and understand the 2024 election results. 
 
 ---
 
