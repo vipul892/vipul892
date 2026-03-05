@@ -48,10 +48,26 @@
 ## 📂 Featured Projects
 
 ### 📊 EV Fleet Performance Dashboard – Power BI
-- Fleet Cost & Maintenance Analysis  
-- Battery Health Monitoring  
-- Regional Performance Insights  
-- Interactive KPI Tracking  
+
+Developed an interactive Power BI dashboard to analyze electric vehicle fleet performance, operational costs, and sustainability metrics. The dashboard provides insights into battery performance, energy consumption, and cost efficiency across different regions and vehicle types.
+
+### 🔹 Key Features
+
+- Fleet Cost & Maintenance Analysis – Tracks maintenance, insurance, and charging costs to evaluate total ownership expenses.
+- Battery Health Monitoring – Monitors battery health, charge cycles, and charging efficiency to assess vehicle performance.
+- Regional Performance Insights – Compares EV performance and CO₂ savings across multiple regions.
+- Interactive KPI Tracking – Displays key metrics such as battery health, energy consumption, charging cost, and total mileage with dynamic filters.
+
+### 🛠 Tools Used
+
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Visualizations
+
+### 📊 Outcome
+
+The dashboard enables data-driven decision-making by identifying performance trends, cost drivers, and environmental impact of EV fleets through interactive and visually intuitive analytics.
 
 ---
 
