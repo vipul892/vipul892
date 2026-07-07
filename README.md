@@ -1,15 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm **Vipul Alsundkar**
+# 👋 Hi, I'm Vipul Alsundkar
 
-### 📊 Data Analyst • 🤖 Data Scientist • 📈 Turning Data into Business Value
+### 📊 Data Analyst | 🤖 Data Scientist | 📈 Business Intelligence
 
-*"Every dataset tells a story—my job is to uncover it."*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst;Data+Scientist;Power+BI+Developer;Python+Developer;SQL+Developer;Machine+Learning+Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;SQL+Problem+Solver;Always+Learning+🚀" />
+<p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vipul-alsundkar-6891593a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-vipul892-black?style=for-the-badge\&logo=github)](https://github.com/vipul892)
+<a href="https://github.com/vipul892">
+<img src="https://img.shields.io/github/followers/vipul892?label=Followers&style=for-the-badge">
+</a>
+
+<a href="https://github.com/vipul892">
+<img src="https://img.shields.io/github/stars/vipul892?affiliations=OWNER&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=vipul892&style=for-the-badge&color=blue">
+
+</p>
 
 </div>
 
@@ -17,79 +26,69 @@
 
 # 🚀 About Me
 
-I'm a **Data Analyst** with **3+ years of professional experience** in Software Testing, now focused on building intelligent data solutions through **Analytics**, **Machine Learning**, and **Business Intelligence**.
+💼 3+ Years of experience as a Software Test Engineer
 
-I enjoy transforming raw data into meaningful insights, creating interactive dashboards, and developing predictive models that solve real-world business problems.
+📊 Passionate about Data Analytics & Data Science
 
-### 🌱 Currently Learning
+🐍 Python | SQL | Power BI | Excel
 
-* Advanced Machine Learning
-* Deep Learning
-* MLOps
-* Generative AI
+🤖 Building Machine Learning Projects
 
-### 🎯 Career Goal
+📈 Love creating dashboards and solving business problems using data
 
-To contribute as a **Data Analyst** or **Data Scientist**, helping organizations make smarter decisions through data-driven solutions.
+🎯 Looking for Data Analyst & Data Scientist opportunities
 
 ---
 
-# 🛠 Tech Arsenal
+# 💻 Tech Stack
 
-## 📊 Analytics & BI
+### Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=excel,mysql,python"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* Excel
-* SQL
-* Power BI
-* Power Query
-* DAX
-* KPI Reporting
-* Dashboard Development
-* Data Storytelling
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🤖 Machine Learning
+### Data Analytics
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Feature Selection
-* Regression
-* Classification
-* Clustering
-* Model Evaluation
-* Cross Validation
-* Hyperparameter Tuning
-* Predictive Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
+
+![DAX](https://img.shields.io/badge/DAX-005C84?style=for-the-badge)
 
 ---
 
-## 🐍 Python Ecosystem
+### Machine Learning
 
-* Pandas
-* NumPy
-* Scikit-learn
-* CatBoost
-* XGBoost
-* LightGBM
-* Matplotlib
-* Plotly
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+
+![LightGBM](https://img.shields.io/badge/LightGBM-00A65A?style=for-the-badge)
 
 ---
 
-## ⚙️ Tools
+### Tools
 
-* Git
-* GitHub
-* Jupyter Notebook
-* Google Colab
-* VS Code
-* Streamlit
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
@@ -97,139 +96,135 @@ To contribute as a **Data Analyst** or **Data Scientist**, helping organizations
 
 ## 🌳 Urban Tree Health Monitoring & Plantation Recommendation
 
-> **Machine Learning | Streamlit | Predictive Analytics**
+✅ Tree Health Prediction
 
-### Highlights
+✅ Growth Prediction
 
-* 🌿 Tree Health Prediction
-* 📈 Growth Rate Prediction
-* 🌳 Tree Height Estimation
-* 🌱 Survival Probability
-* 🌍 Carbon Absorption Estimation
-* 💨 Oxygen Generation Estimation
-* 🌲 Tree Plantation Recommendation
-* 📱 Interactive Streamlit Web App
+✅ Carbon Absorption Estimation
+
+✅ Oxygen Generation Estimation
+
+✅ Tree Height Prediction
+
+✅ Plantation Recommendation
+
+**Tech:** Python • Machine Learning • CatBoost • Streamlit • Plotly
 
 ---
 
 ## ⚡ EV Fleet Performance Dashboard
 
-**Power BI | Business Intelligence**
+Power BI Dashboard for
 
-✔ Fleet Performance Analytics
-
-✔ Battery Health Monitoring
-
-✔ Charging Cost Analysis
-
-✔ Sustainability Metrics
-
-✔ Interactive KPIs
+- Fleet Performance
+- Battery Health
+- Charging Cost
+- Sustainability Metrics
+- KPI Dashboard
 
 ---
 
-## 📈 Sales Performance Dashboard
+## 📈 Sales Dashboard
 
-**Power BI**
-
-* Revenue Analysis
-* Profit Analysis
-* Regional Sales
-* Business KPIs
-* Executive Dashboard
+- Revenue Analysis
+- Profit Analysis
+- Regional Sales
+- Interactive KPIs
 
 ---
 
-## 🗳 Indian Lok Sabha Election Dashboard
+## 🗳 Lok Sabha Election Dashboard
 
-**Excel Analytics Dashboard**
-
-* Party-wise Seat Analysis
-* Vote Share
-* State Performance
-* Interactive Slicers
-* Dynamic Charts
+- Vote Share Analysis
+- Party Performance
+- State Analysis
+- Interactive Excel Dashboard
 
 ---
 
-## 🚕 Uber Management Database
+## 🚕 Uber Management System
 
-**MySQL**
-
-* Database Design
-* Normalization
-* Complex Joins
-* Window Functions
-* Subqueries
-* Stored Procedures
-* Performance Optimization
+- Database Design
+- Complex SQL
+- Joins
+- Views
+- Stored Procedures
+- Window Functions
 
 ---
 
-# 📚 Skills Snapshot
-
-| Category        | Technologies                                             |
-| --------------- | -------------------------------------------------------- |
-| Languages       | Python, SQL                                              |
-| Analytics       | Excel, Power BI, Power Query, DAX                        |
-| Libraries       | Pandas, NumPy, Scikit-learn, CatBoost, XGBoost, LightGBM |
-| Visualization   | Power BI, Matplotlib, Plotly                             |
-| Databases       | MySQL                                                    |
-| Deployment      | Streamlit                                                |
-| Version Control | Git, GitHub                                              |
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul892&theme=transparent&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=vipul892&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophy
 
-* 💼 3+ Years of Industry Experience
-* 📊 Multiple Interactive Dashboard Projects
-* 🤖 End-to-End Machine Learning Project
-* 🗄 Strong SQL & Database Design Skills
-* 🌱 Passionate Continuous Learner
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vipul892&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
 
 ---
 
-# 💡 What I'm Interested In
+# 📊 Contribution Graph
 
-* Data Analytics
-* Machine Learning
-* Artificial Intelligence
-* Business Intelligence
-* Data Visualization
-* Predictive Analytics
-* Real-world Data Products
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul892&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+
+- Deep Learning
+
+- NLP
+
+- MLOps
+
+- Generative AI
+
+---
+
+# 📫 Connect with Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/vipul-alsundkar-6891593a0/
+
+🐙 GitHub
+
+https://github.com/vipul892
+
+📧 Email
+
+your-email@example.com
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Connect
+### ⭐ Thanks for visiting my profile!
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/vipul-alsundkar-6891593a0/
-
-🐙 **GitHub:**
-https://github.com/vipul892
-
-⭐ **Thanks for visiting my profile! If you enjoy my projects, consider giving them a star.**
+*"Turning data into meaningful insights."*
 
 </div>
