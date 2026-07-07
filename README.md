@@ -4,7 +4,7 @@
 
 ### 📊 Data Analyst | 🤖 Data Scientist | 📈 Business Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst;Data+Scientist;Power+BI+Developer;Python+Developer;SQL+Developer;Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst;Data+Scientist;Power+BI+Developer;SQL+Developer;Machine+Learning+Enthusiast" />
 
 <p>
 
@@ -157,7 +157,6 @@
 
 <img src="https://img.shields.io/badge/Views-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Stored_Procedures-8BC34A?style=for-the-badge"/>
 
 </p>
 
@@ -168,8 +167,6 @@
 <p align="left">
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
@@ -186,7 +183,7 @@
 
 ## 📂 Featured Projects
 
-## 🌳 Urban Tree Health Monitoring & Plantation Recommendation System (Machine Learning)
+### 🌳 Urban Tree Health Monitoring & Plantation Recommendation System (Machine Learning)
 
 Developed an end-to-end Machine Learning solution that predicts tree health, growth rate, survival probability, carbon absorption, oxygen generation, and recommends suitable tree species for urban plantation.
 
@@ -216,7 +213,7 @@ Built a smart urban forestry solution that supports sustainable city planning th
 
 ---
 
-## 🌦️ Weather Data Web Scraping & Analytics Using Python & Selenium
+### 🌦️ Weather Data Web Scraping & Analytics Using Python & Selenium
 
 Developed an automated weather data scraping application using Python and Selenium to extract real-time weather information from a website. The collected data is cleaned, structured, and exported for analysis and reporting.
 
