@@ -24,71 +24,162 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-💼 3+ Years of experience as a Software Test Engineer
+📊 I am a **Data Analyst & Data Scientist** passionate about transforming raw data into actionable insights, interactive dashboards, and predictive machine learning solutions.
 
-📊 Passionate about Data Analytics & Data Science
+💼 My expertise includes:
 
-🐍 Python | SQL | Power BI | Excel
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 📉 Data Visualization & Storytelling
+- 📋 Business Intelligence Reporting
+- 📊 Dashboard Development
+- 📌 KPI & Performance Analysis
+- 🗄 SQL Query Optimization
+- 📂 Data Modeling
+- 🤖 Machine Learning
+- ⚙ Feature Engineering
+- 📈 Predictive Analytics
+- 🎯 Model Evaluation
+- 🔄 Cross Validation
+- ⚡ Hyperparameter Tuning
 
-🤖 Building Machine Learning Projects
-
-📈 Love creating dashboards and solving business problems using data
-
-🎯 Looking for Data Analyst & Data Scientist opportunities
-
----
-
-# 💻 Tech Stack
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### Data Analytics
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
-
-![DAX](https://img.shields.io/badge/DAX-005C84?style=for-the-badge)
+🎯 I enjoy solving real-world business problems using data analytics, business intelligence, and AI-driven predictive models.
 
 ---
 
-### Machine Learning
+# 🛠 Skills & Technologies
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+## 📊 Data Analytics & Business Intelligence
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<p align="left">
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-![LightGBM](https://img.shields.io/badge/LightGBM-00A65A?style=for-the-badge)
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-0088CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI_Analysis-009688?style=for-the-badge"/>
+
+</p>
 
 ---
 
-### Tools
+## 🐍 Programming
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p align="left">
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+</p>
+
+---
+
+## 🤖 Machine Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Classification-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clustering-9C27B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature_Engineering-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cross_Validation-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hyperparameter_Tuning-FFC107?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Model_Evaluation-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LightGBM-00A65A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📈 Statistics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Statistics-3F51B5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EDA-FF5722?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hypothesis_Testing-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Probability-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Predictive_Analytics-673AB7?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database_Design-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Normalization-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Joins-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Views-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stored_Procedures-8BC34A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙ Tools & Platforms
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
 
 ---
 
