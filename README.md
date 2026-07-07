@@ -1,156 +1,235 @@
-<h1 align="center">Hi 👋, I'm Vipul Alsundkar</h1>
-<h3 align="center">Data Analyst | Excel • SQL • Power BI • Python</h3>
+<div align="center">
+
+# 👋 Hi, I'm **Vipul Alsundkar**
+
+### 📊 Data Analyst • 🤖 Data Scientist • 📈 Turning Data into Business Value
+
+*"Every dataset tells a story—my job is to uncover it."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;SQL+Problem+Solver;Always+Learning+🚀" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vipul-alsundkar-6891593a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-vipul892-black?style=for-the-badge\&logo=github)](https://github.com/vipul892)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Data Analyst** with **3+ years of professional experience** in Software Testing, now focused on building intelligent data solutions through **Analytics**, **Machine Learning**, and **Business Intelligence**.
+
+I enjoy transforming raw data into meaningful insights, creating interactive dashboards, and developing predictive models that solve real-world business problems.
+
+### 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* MLOps
+* Generative AI
+
+### 🎯 Career Goal
+
+To contribute as a **Data Analyst** or **Data Scientist**, helping organizations make smarter decisions through data-driven solutions.
+
+---
+
+# 🛠 Tech Arsenal
+
+## 📊 Analytics & BI
+
+<p>
+<img src="https://skillicons.dev/icons?i=excel,mysql,python"/>
+</p>
+
+* Excel
+* SQL
+* Power BI
+* Power Query
+* DAX
+* KPI Reporting
+* Dashboard Development
+* Data Storytelling
+
+---
+
+## 🤖 Machine Learning
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Feature Selection
+* Regression
+* Classification
+* Clustering
+* Model Evaluation
+* Cross Validation
+* Hyperparameter Tuning
+* Predictive Analytics
+
+---
+
+## 🐍 Python Ecosystem
+
+* Pandas
+* NumPy
+* Scikit-learn
+* CatBoost
+* XGBoost
+* LightGBM
+* Matplotlib
+* Plotly
+
+---
+
+## ⚙️ Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Streamlit
+
+---
+
+# 🚀 Featured Projects
+
+## 🌳 Urban Tree Health Monitoring & Plantation Recommendation
+
+> **Machine Learning | Streamlit | Predictive Analytics**
+
+### Highlights
+
+* 🌿 Tree Health Prediction
+* 📈 Growth Rate Prediction
+* 🌳 Tree Height Estimation
+* 🌱 Survival Probability
+* 🌍 Carbon Absorption Estimation
+* 💨 Oxygen Generation Estimation
+* 🌲 Tree Plantation Recommendation
+* 📱 Interactive Streamlit Web App
+
+---
+
+## ⚡ EV Fleet Performance Dashboard
+
+**Power BI | Business Intelligence**
+
+✔ Fleet Performance Analytics
+
+✔ Battery Health Monitoring
+
+✔ Charging Cost Analysis
+
+✔ Sustainability Metrics
+
+✔ Interactive KPIs
+
+---
+
+## 📈 Sales Performance Dashboard
+
+**Power BI**
+
+* Revenue Analysis
+* Profit Analysis
+* Regional Sales
+* Business KPIs
+* Executive Dashboard
+
+---
+
+## 🗳 Indian Lok Sabha Election Dashboard
+
+**Excel Analytics Dashboard**
+
+* Party-wise Seat Analysis
+* Vote Share
+* State Performance
+* Interactive Slicers
+* Dynamic Charts
+
+---
+
+## 🚕 Uber Management Database
+
+**MySQL**
+
+* Database Design
+* Normalization
+* Complex Joins
+* Window Functions
+* Subqueries
+* Stored Procedures
+* Performance Optimization
+
+---
+
+# 📚 Skills Snapshot
+
+| Category        | Technologies                                             |
+| --------------- | -------------------------------------------------------- |
+| Languages       | Python, SQL                                              |
+| Analytics       | Excel, Power BI, Power Query, DAX                        |
+| Libraries       | Pandas, NumPy, Scikit-learn, CatBoost, XGBoost, LightGBM |
+| Visualization   | Power BI, Matplotlib, Plotly                             |
+| Databases       | MySQL                                                    |
+| Deployment      | Streamlit                                                |
+| Version Control | Git, GitHub                                              |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipul892&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="vipul892" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vipul892&theme=transparent&hide_border=true"/>
+
 </p>
-
----
-
-## 🚀 About Me
-
-📊 I am a Data Analyst skilled in transforming raw data into meaningful insights and interactive dashboards.
-
-💼 With strong expertise in Excel, SQL, Power BI, and Python, I specialize in:
-
-- Data Cleaning & Transformation  
-- Dashboard Development  
-- Business Intelligence Reporting  
-- KPI & Performance Analysis  
-- Structured Data Modeling  
-
-🎯 My goal is to help businesses make data-driven decisions using clear and actionable insights.
-
----
-
-### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-Dashboard-blue?style=for-the-badge"/>
-</p>
-
-### 🐍 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
-</p>
-
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge"/>
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 📊 EV Fleet Performance Dashboard – Power BI
-
-Developed an interactive Power BI dashboard to analyze electric vehicle fleet performance, operational costs, and sustainability metrics. The dashboard provides insights into battery performance, energy consumption, and cost efficiency across different regions and vehicle types.
-
-### 🔹 Key Features
-
-- Fleet Cost & Maintenance Analysis – Tracks maintenance, insurance, and charging costs to evaluate total ownership expenses.
-- Battery Health Monitoring – Monitors battery health, charge cycles, and charging efficiency to assess vehicle performance.
-- Regional Performance Insights – Compares EV performance and CO₂ savings across multiple regions.
-- Interactive KPI Tracking – Displays key metrics such as battery health, energy consumption, charging cost, and total mileage with dynamic filters.
-
-### 🛠 Tools Used
-
-- Power BI
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Interactive Visualizations
-
-### 📊 Outcome
-
-The dashboard enables data-driven decision-making by identifying performance trends, cost drivers, and environmental impact of EV fleets through interactive and visually intuitive analytics.
-
----
-
-### 🗳 Indian Lok Sabha Election 2024 – Excel Dashboard
-
-Developed an interactive Excel dashboard to analyze the results of the 2024 Indian Lok Sabha Elections using data visualization and dynamic filtering techniques.
-
-### 🔹 Key Features
-
-- Party-wise Seat Distribution – Visual breakdown of seats won by each political party.
-- Vote Share Analysis – Comparison of vote percentage across major parties.
-- State-wise Performance – Analysis of election results across different states.
-- EVM vs Postal Vote Comparison – Insight into voting patterns by vote type.
-- Interactive Slicers – Enabled dynamic filtering for quick and flexible analysis.
-
-### 🛠 Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Visualization
-
-### 📊 Outcome
-
-The dashboard provides a clear and interactive view of election trends, party performance, and voting patterns, helping users quickly explore and understand the 2024 election results. 
-
----
-
-### 🚕 MySql_Project_Indian-Uber-Management-System
-
-📌 **Tools Used:** MySQL  
-
-A complete relational database project designed to simulate an Indian Uber ride management system.
-
-#### 🔹 Key Features:
-- Customer Management Table  
-- Driver Information Table  
-- Booking & Trip Details  
-- Payment Records  
-- Ride Status Tracking  
-- Table Relationships using Primary & Foreign Keys  
-
-#### 🔹 SQL Concepts Applied:
-- Complex Joins  
-- Aggregation Queries  
-- Subqueries  
-- Data Filtering  
-- Database Schema Design  
-
-This project demonstrates strong understanding of database structure, normalization, and real-world SQL querying.
-
----
-
-### 📈 Sales Data Analysis Dashboard – Power BI
-- Year-over-Year Growth Analysis  
-- Profit & Revenue Insights  
-- Regional Sales Trends  
-- Business KPI Indicators  
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul892&theme=default" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Career Focus
+# 🏆 Achievements
 
-To grow as a Data Analyst by building impactful dashboards, writing efficient SQL queries, and solving real-world business problems using Excel, Power BI, MySQL, and Python.
-
----
-
-## 📫 Connect With Me
-
-- 🐙 GitHub: https://github.com/vipul892  
-- 💼 LinkedIn: https://www.linkedin.com/in/vipul-alsundkar-6891593a0/
- 
+* 💼 3+ Years of Industry Experience
+* 📊 Multiple Interactive Dashboard Projects
+* 🤖 End-to-End Machine Learning Project
+* 🗄 Strong SQL & Database Design Skills
+* 🌱 Passionate Continuous Learner
 
 ---
 
-⭐ Passionate about Data | SQL Projects | Dashboard Design | Business Insights
+# 💡 What I'm Interested In
+
+* Data Analytics
+* Machine Learning
+* Artificial Intelligence
+* Business Intelligence
+* Data Visualization
+* Predictive Analytics
+* Real-world Data Products
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/vipul-alsundkar-6891593a0/
+
+🐙 **GitHub:**
+https://github.com/vipul892
+
+⭐ **Thanks for visiting my profile! If you enjoy my projects, consider giving them a star.**
+
+</div>
