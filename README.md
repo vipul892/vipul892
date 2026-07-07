@@ -183,101 +183,154 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 🌳 Urban Tree Health Monitoring & Plantation Recommendation
+## 📂 Featured Projects
 
-✅ Tree Health Prediction
+## 🌳 Urban Tree Health Monitoring & Plantation Recommendation System (Machine Learning)
 
-✅ Growth Prediction
+Developed an end-to-end Machine Learning solution that predicts tree health, growth rate, survival probability, carbon absorption, oxygen generation, and recommends suitable tree species for urban plantation.
 
-✅ Carbon Absorption Estimation
+### 🔹 Key Features
 
-✅ Oxygen Generation Estimation
+- Tree Health Prediction
+- Growth Rate Prediction
+- Survival Probability Prediction
+- Carbon Absorption Estimation
+- Plantation Recommendation
+- Interactive Streamlit Web Application
+  
+### 🛠 Tools Used
 
-✅ Tree Height Prediction
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- CatBoost
+- Streamlit
+- Plotly
+- Machine Learning
+  
+### 📊 Outcome
 
-✅ Plantation Recommendation
-
-**Tech:** Python • Machine Learning • CatBoost • Streamlit • Plotly
-
----
-
-## ⚡ EV Fleet Performance Dashboard
-
-Power BI Dashboard for
-
-- Fleet Performance
-- Battery Health
-- Charging Cost
-- Sustainability Metrics
-- KPI Dashboard
-
----
-
-## 📈 Sales Dashboard
-
-- Revenue Analysis
-- Profit Analysis
-- Regional Sales
-- Interactive KPIs
+Built a smart urban forestry solution that supports sustainable city planning through predictive analytics and AI-driven recommendations.
 
 ---
 
-## 🗳 Lok Sabha Election Dashboard
+## 🌦️ Weather Data Web Scraping & Analytics Using Python & Selenium
 
-- Vote Share Analysis
-- Party Performance
-- State Analysis
-- Interactive Excel Dashboard
+Developed an automated weather data scraping application using Python and Selenium to extract real-time weather information from a website. The collected data is cleaned, structured, and exported for analysis and reporting.
+
+### 🔹 Key Features
+
+- Scrapes real-time weather data by city
+- Extracts temperature, humidity, wind speed, and weather conditions
+- leans and structures data using Pandas
+- Exports data to CSV and mysql database for further analysis
+- Automates browser interactions with Selenium
+  
+### 🛠 Tools Used
+
+- Python
+- Selenium
+- Pandas
+- NumPy
+- ChromeDriver
+- VS Code
+- Git & GitHub
+  
+### 📈 Outcome
+
+Built an automated data collection pipeline that efficiently gathers and organizes real-time weather data, demonstrating skills in web scraping, browser automation, data preprocessing, and data analysis.
 
 ---
 
-## 🚕 Uber Management System
+### 📊 EV Fleet Performance Dashboard – Power BI
 
-- Database Design
-- Complex SQL
-- Joins
-- Views
-- Stored Procedures
-- Window Functions
+Developed an interactive Power BI dashboard to analyze electric vehicle fleet performance, operational costs, and sustainability metrics. The dashboard provides insights into battery performance, energy consumption, and cost efficiency across different regions and vehicle types.
+
+### 🔹 Key Features
+
+- Fleet Cost & Maintenance Analysis – Tracks maintenance, insurance, and charging costs to evaluate total ownership expenses.
+- Battery Health Monitoring – Monitors battery health, charge cycles, and charging efficiency to assess vehicle performance.
+- Regional Performance Insights – Compares EV performance and CO₂ savings across multiple regions.
+- Interactive KPI Tracking – Displays key metrics such as battery health, energy consumption, charging cost, and total mileage with dynamic filters.
+
+### 🛠 Tools Used
+
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Visualizations
+
+### 📊 Outcome
+
+The dashboard enables data-driven decision-making by identifying performance trends, cost drivers, and environmental impact of EV fleets through interactive and visually intuitive analytics.
 
 ---
 
-# 📈 GitHub Statistics
+### 🗳 Indian Lok Sabha Election 2024 – Excel Dashboard
+
+Developed an interactive Excel dashboard to analyze the results of the 2024 Indian Lok Sabha Elections using data visualization and dynamic filtering techniques.
+
+### 🔹 Key Features
+
+- Party-wise Seat Distribution – Visual breakdown of seats won by each political party.
+- Vote Share Analysis – Comparison of vote percentage across major parties.
+- State-wise Performance – Analysis of election results across different states.
+- EVM vs Postal Vote Comparison – Insight into voting patterns by vote type.
+- Interactive Slicers – Enabled dynamic filtering for quick and flexible analysis.
+
+### 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+### 📊 Outcome
+
+The dashboard provides a clear and interactive view of election trends, party performance, and voting patterns, helping users quickly explore and understand the 2024 election results. 
+
+---
+
+### 🚕 MySql_Project_Indian-Uber-Management-System
+
+📌 **Tools Used:** MySQL  
+
+A complete relational database project designed to simulate an Indian Uber ride management system.
+
+#### 🔹 Key Features:
+- Customer Management Table  
+- Driver Information Table  
+- Booking & Trip Details  
+- Payment Records  
+- Ride Status Tracking  
+- Table Relationships using Primary & Foreign Keys  
+
+#### 🔹 SQL Concepts Applied:
+- Complex Joins  
+- Aggregation Queries  
+- Subqueries  
+- Data Filtering  
+- Database Schema Design  
+
+This project demonstrates strong understanding of database structure, normalization, and real-world SQL querying.
+
+---
+
+### 📈 Sales Data Analysis Dashboard – Power BI
+- Year-over-Year Growth Analysis  
+- Profit & Revenue Insights  
+- Regional Sales Trends  
+- Business KPI Indicators  
+
+---
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=vipul892&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul892&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vipul892&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul892&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vipul892&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul892&theme=default" height="160"/>
 </p>
 
 ---
@@ -308,7 +361,7 @@ https://github.com/vipul892
 
 📧 Email
 
-your-email@example.com
+vipulalsundkar620@gmail.com
 
 ---
 
